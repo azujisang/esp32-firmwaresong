@@ -1,6 +1,6 @@
 {
-  "version": "8.5.0",
-  "version_tag": "v8.5.0",
+  "version": "8.5.1",
+  "version_tag": "v8.5.1",
   "bin_url": "https://raw.githubusercontent.com/username/OilEsp32Song/main/OilEsp32Song.ino.bin",
   "release_notes": "เพิ่มระบบตรวจสอบเวอร์ชันอัตโนมัติ (Smart Version Checker) และระบบตั้งเวลาปรับระดับเสียง",
   "release_date": "2026-08-16"
